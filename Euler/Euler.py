@@ -1,3 +1,8 @@
+"""
+Estudiante: Ricardo Balducci
+Cédula: 28.308.177
+"""
+
 def euler(f, x0, y0, h, n):
     """
     Implementación del método de Euler para resolver una ecuación diferencial ordinaria de primer orden.
